@@ -2,7 +2,7 @@
 
 Assist in searching for sites that are vulnerable to CloudBleed.
 
-For further reading, see https://github.com/pirate/sites-using-cloudflare/blob/master/README.md
+For further reading and list contaicng the affected domains, see https://github.com/pirate/sites-using-cloudflare/blob/master/README.md
 
 Save `cb.sh` to desired directory.
 
